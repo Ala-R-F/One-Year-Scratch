@@ -8,10 +8,12 @@ Tenha cuidado com obstáculos e vacinas quebradas.'
 Originalmente postado com a conta GrupoAAAL no Scratch. Versões de desenvolvimento tambem disponíveis na conta:
 https://scratch.mit.edu/projects/533487839/
 
+O código dos botões está disponível para uso com explicação:
+https://github.com/Ala-R-F/Botao_Scratch
 
 # Desenvolvedores
-    > Anna Paula Siqueira da Silva
+    > Anna Paula Siqueira da Silva https://github.com/annapss
     > Ariane Arantes dos Santos
-    > Alana Rodrigues Franzen
-    > Luanda Rodrigues da Silva
+    > Alana Rodrigues Franzen https://github.com/Ala-R-F
+    > Luanda Rodrigues da Silva https://github.com/luarodri
  
